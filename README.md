@@ -1,5 +1,8 @@
 # Recycle Game
-
+## How to Run
+1. Clone this repository:
+   ```bash
+  https://github.com/Nivedhitha-Duggi/recycle.git
 A fun, interactive game where the player collects falling bottles and avoids thorns. The goal is to progress through three levels by collecting a specific number of bottles. The game increases in difficulty with each level, featuring faster falling items and new challenges.
 
 ## Features
