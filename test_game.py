@@ -47,7 +47,7 @@ class TestRecycleGame(unittest.TestCase):
         self.assertNotEqual(len(self.items), 0, "Items list should not be empty before reset")
         reset_level()  # Reset level
         self.assertEqual(len(self.items), 0, "Items list should be empty after reset")
-
+#main function
 if __name__ == '__main__':
     unittest.main()
 
