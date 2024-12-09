@@ -45,6 +45,7 @@ items = []
 player_name = ""
 game_summary = ""
 
+#functions
 def reset_level():
     """Reset the items for a new level."""
     global items
